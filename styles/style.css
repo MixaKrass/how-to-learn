@@ -68,7 +68,7 @@
 }
 
 .header__main-illustration {
-  width: 765px; 
+  width: 765px;
   height: 608px;
   position: absolute;
   right: 0;
@@ -80,7 +80,7 @@
 }
 
 .header__flex-row {
-  display: flex; 
+  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -115,7 +115,7 @@
  margin: 0 0 30px;
  line-height: 34px;
  font-size: 24px;
- font-weight: normal
+ font-weight: normal;
 }
 
 .two-columns__span-accent {
@@ -218,19 +218,16 @@ margin:0 0 20px;
   color: white;
   }
   
-  .section-subtitle_theme_dark {
+.section-subtitle_theme_dark {
     color: white;
-  }
-  
-  .table_theme_dark {
-    z-index: 5;
-  }
+}
   
 .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
+  z-index: 5;
 }
 
   .kaufman{
@@ -240,7 +237,7 @@ margin:0 0 20px;
     align-items: center;
     position: relative;
     padding-top: 90px;
-    padding-bottom: 90Px;
+    padding-bottom: 90px;
     overflow: hidden;
   }
 
